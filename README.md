@@ -1,1 +1,3 @@
-#Sorting-algorithm-visualizations-using-Graphics.h
+---
+###Sorting-algorithm-visualizations-using-Graphics.h
+---
